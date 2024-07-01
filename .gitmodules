@@ -1,3 +1,6 @@
 [submodule "studyPal"]
 	path = studyPal
 	url = https://github.com/Noran612/studyPal.git
+[submodule "coffeeZone"]
+	path = coffeeZone
+	url = https://github.com/Noran612/coffeeZone.git
