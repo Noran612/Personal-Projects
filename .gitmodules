@@ -7,3 +7,6 @@
 [submodule "MyPortfolio"]
 	path = MyPortfolio
 	url = https://github.com/Noran612/MyPortfolio.git
+[submodule "CardGame"]
+	path = CardGame
+	url = https://github.com/Noran612/CardGame.git
