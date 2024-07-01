@@ -10,3 +10,6 @@
 [submodule "CardGame"]
 	path = CardGame
 	url = https://github.com/Noran612/CardGame.git
+[submodule "The-Simon-game"]
+	path = The-Simon-game
+	url = https://github.com/Noran612/The-Simon-game.git
