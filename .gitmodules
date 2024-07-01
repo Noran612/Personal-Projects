@@ -1,0 +1,3 @@
+[submodule "studyPal"]
+	path = studyPal
+	url = https://github.com/Noran612/studyPal.git
